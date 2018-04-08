@@ -1,3 +1,3 @@
 # Data-8
 Foundations of Data Science
-Jupyter Notebook&Numpy
+Python Jupyter Notebook&Numpy
